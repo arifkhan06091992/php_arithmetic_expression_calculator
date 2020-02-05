@@ -1,0 +1,18 @@
+{
+    "name": "arifkhan06091992/php_arithmetic_expression_calculator",
+    "description": "This Package can be use for check syntax of a arithmetic expression, convert Infix Expression To Postfix Expression, c",
+    "homepage": "https://github.com/arifkhan06091992/php_arithmetic_expression_calculator",
+    "authors": [
+        {
+            "name": "Arif Khan",
+            "email": "arifkhan06091992@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=5.6.0",
+        "ext-http": "*"
+    }
+}
