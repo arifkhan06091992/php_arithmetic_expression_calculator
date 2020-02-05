@@ -12,7 +12,6 @@
     "type": "library",
     "license": "BSD-3-Clause",
     "require": {
-        "php": ">=5.6.0",
-        "ext-http": "*"
+        "php": ">=5.6.0"
     }
 }
